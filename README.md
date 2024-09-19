@@ -1,4 +1,4 @@
-### Hi there, welcome to my development profile👋
+### Hi there, My name is Oluwaseun👋
 
 
 - 🔭 I’m currently working on AI-integrated CRM.
